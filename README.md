@@ -50,4 +50,4 @@ In the future, you can explore the following improvements or extensions to the p
 
 ## Contact
 
-For any inquiries or questions, please contact [yousr.ahmed.muhammed@gmail.com].
+For any inquiries or questions, please contact [yousr.ahmed.muhammed@gmail.com](mailto:yousr.ahmed.muhammed@gmail.com).
